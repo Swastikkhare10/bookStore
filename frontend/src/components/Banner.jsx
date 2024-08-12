@@ -11,10 +11,12 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+              Join us on a journey of continuous learning and discovery. Whether you're 
+              looking to acquire new skills or deepen your knowledge, we are here to support 
+              you every step of the way. Embrace the opportunity to grow and expand your 
+              horizons with our diverse range of courses and resources.
             </p>
+
             <label className="input input-bordered flex items-center gap-2">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
